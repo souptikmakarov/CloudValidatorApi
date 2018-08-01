@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwelveFactorValidator", "TwelveFactorValidator\TwelveFactorValidator.csproj", "{22C54E7B-315C-4E3B-B94B-40696DBFBC6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwelveFactor.Core", "TwelveFactor.Core\TwelveFactor.Core.csproj", "{9B550241-9809-472B-B8FB-5A58932CF464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22C54E7B-315C-4E3B-B94B-40696DBFBC6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C54E7B-315C-4E3B-B94B-40696DBFBC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C54E7B-315C-4E3B-B94B-40696DBFBC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C54E7B-315C-4E3B-B94B-40696DBFBC6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B550241-9809-472B-B8FB-5A58932CF464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B550241-9809-472B-B8FB-5A58932CF464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B550241-9809-472B-B8FB-5A58932CF464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B550241-9809-472B-B8FB-5A58932CF464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92968904-3BFD-4596-9092-53427FA5B738}
+	EndGlobalSection
+EndGlobal

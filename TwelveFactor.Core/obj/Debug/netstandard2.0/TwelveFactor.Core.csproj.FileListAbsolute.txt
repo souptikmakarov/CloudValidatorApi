@@ -1,0 +1,10 @@
+C:\Work\Hackathon\Microservice Hackathon\Api\TwelveFactorValidator\TwelveFactor.Core\bin\Debug\netstandard2.0\TwelveFactor.Core.deps.json
+C:\Work\Hackathon\Microservice Hackathon\Api\TwelveFactorValidator\TwelveFactor.Core\bin\Debug\netstandard2.0\TwelveFactor.Core.dll
+C:\Work\Hackathon\Microservice Hackathon\Api\TwelveFactorValidator\TwelveFactor.Core\bin\Debug\netstandard2.0\TwelveFactor.Core.pdb
+C:\Work\Hackathon\Microservice Hackathon\Api\TwelveFactorValidator\TwelveFactor.Core\obj\Debug\netstandard2.0\TwelveFactor.Core.csprojResolveAssemblyReference.cache
+C:\Work\Hackathon\Microservice Hackathon\Api\TwelveFactorValidator\TwelveFactor.Core\obj\Debug\netstandard2.0\TwelveFactor.Core.csproj.CoreCompileInputs.cache
+C:\Work\Hackathon\Microservice Hackathon\Api\TwelveFactorValidator\TwelveFactor.Core\obj\Debug\netstandard2.0\TwelveFactor.Core.AssemblyInfoInputs.cache
+C:\Work\Hackathon\Microservice Hackathon\Api\TwelveFactorValidator\TwelveFactor.Core\obj\Debug\netstandard2.0\TwelveFactor.Core.AssemblyInfo.cs
+C:\Work\Hackathon\Microservice Hackathon\Api\TwelveFactorValidator\TwelveFactor.Core\obj\Debug\netstandard2.0\TwelveFactor.Core.dll
+C:\Work\Hackathon\Microservice Hackathon\Api\TwelveFactorValidator\TwelveFactor.Core\obj\Debug\netstandard2.0\TwelveFactor.Core.pdb
+C:\Work\Hackathon\Microservice Hackathon\Api\TwelveFactorValidator\TwelveFactor.Core\bin\Debug\netstandard2.0\TwelveFactor.Core.dll.config
